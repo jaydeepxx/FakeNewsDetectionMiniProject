@@ -5,8 +5,8 @@
 }
 
 body {
-
-    background-image: url(/static/images/bg.png);
+    background: aliceblue;
+    /* background-image: url(/static/images/bg.png); */
     width: 100%;
     height: 100vh;
     background-size: cover;
